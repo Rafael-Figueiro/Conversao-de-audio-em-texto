@@ -1,0 +1,357 @@
+[
+    {
+        "Id": "a9816362c27f4d4289b8660a7f2bf890",
+        "RecognitionStatus": 0,
+        "Offset": 700000,
+        "Duration": 32800000,
+        "Channel": 0,
+        "DisplayText": "Este é um som demonstração para a transcrição de áudio em texto.",
+        "NBest": [
+            {
+                "Confidence": 0.7682867,
+                "Lexical": "este é um som demonstração para a transcrição de áudio em texto",
+                "ITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "MaskedITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "Display": "Este é um som demonstração para a transcrição de áudio em texto.",
+                "Words": [
+                    {
+                        "Word": "este",
+                        "Offset": 700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 4300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 4700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "som",
+                        "Offset": 5900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "demonstração",
+                        "Offset": 8300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 17500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "áudio",
+                        "Offset": 25500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 28700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 29500000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7682867,
+                "Lexical": "este é um som demonstração para a transcrição de áudio em texto",
+                "ITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "MaskedITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "Display": "este é um som demonstração para a transcrição de áudio em texto",
+                "Words": [
+                    {
+                        "Word": "este",
+                        "Offset": 700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 4300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 4700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "som",
+                        "Offset": 5900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "demonstração",
+                        "Offset": 8300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 17500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "áudio",
+                        "Offset": 25500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 28700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 29500000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7682867,
+                "Lexical": "este é um som demonstração para a transcrição de áudio em texto",
+                "ITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "MaskedITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "Display": "este é um som demonstração para a transcrição de áudio em texto",
+                "Words": [
+                    {
+                        "Word": "este",
+                        "Offset": 700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 4300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 4700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "som",
+                        "Offset": 5900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "demonstração",
+                        "Offset": 8300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 17500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "áudio",
+                        "Offset": 25500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 28700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 29500000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7682867,
+                "Lexical": "este é um som demonstração para a transcrição de áudio em texto",
+                "ITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "MaskedITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "Display": "este é um som demonstração para a transcrição de áudio em texto",
+                "Words": [
+                    {
+                        "Word": "este",
+                        "Offset": 700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 4300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 4700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "som",
+                        "Offset": 5900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "demonstração",
+                        "Offset": 8300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 17500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "áudio",
+                        "Offset": 25500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 28700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 29500000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7682867,
+                "Lexical": "este é um som demonstração para a transcrição de áudio em texto",
+                "ITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "MaskedITN": "este é um som demonstração para a transcrição de áudio em texto",
+                "Display": "este é um som demonstração para a transcrição de áudio em texto",
+                "Words": [
+                    {
+                        "Word": "este",
+                        "Offset": 700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 4300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 4700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "som",
+                        "Offset": 5900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "demonstração",
+                        "Offset": 8300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 17500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "áudio",
+                        "Offset": 25500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 28700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 29500000,
+                        "Duration": 4000000
+                    }
+                ]
+            }
+        ]
+    }
+]
